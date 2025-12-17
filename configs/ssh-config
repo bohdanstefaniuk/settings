@@ -1,0 +1,24 @@
+Host pluspoint-dev
+    HostName sandbox.pluspoint.io
+    IdentityFile ~/.ssh/pluspoint
+    User root
+
+Host pluspoint-prod
+    HostName 146.190.179.177
+    IdentityFile ~/.ssh/pluspoint
+    User root
+
+Host pluspoint-analyzer
+    HostName 64.226.114.75
+    IdentityFile ~/.ssh/pluspoint
+    User root
+
+Host pluspoint-whatsapp
+    HostName 159.65.116.173
+    IdentityFile ~/.ssh/pluspoint
+    User root
+
+Host pluspoint-workers
+    HostName 68.183.223.72
+    IdentityFile ~/.ssh/pluspoint
+    User root

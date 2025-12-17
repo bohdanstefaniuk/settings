@@ -1,0 +1,41 @@
+Restore my laptop
+
+How to: Press and hold power button
+
+
+Things to do:
++ Install docker and restore database
++ Install github copilot into rider
++ Install and setup Syncthings
++ Cleanup photos container on server
++ Double check photos on external drive
++ Setup snippets in raycast (emails, @stefaniuk.me)
+- Setup iTerm
+- Create repository with all my dotfiles and environment settings
+- Install Mullvad DNS ???
+
+Applications to instal:
+- Keka
+- IINA
+- Ableton Live
+- Bruno
+
+https://www.mowglii.com/itsycal/
+https://colecaccamise.com/stack/development
+
+Software I use:
+- itscal
+- obsidian
+- things 3
+- sublime text
+- rider
+- firefox
+- raycast
+- 1password
+- syncthings
+
+Commands:
+- brew install docker
+- brew install colima colima (cli alternative for docker desktop)
+- brew install libpq (postgresql client tools)
+- ./psql -U postgres -h localhost -p 5432 < path-to-sql-dump-file
